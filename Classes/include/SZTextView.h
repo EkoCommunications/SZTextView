@@ -1,1 +1,1 @@
-/Users/sainttail/Desktop/eko-project/SZTextView/Classes/SZTextView.h
+../SZTextView.h
